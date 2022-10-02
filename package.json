@@ -1,0 +1,22 @@
+{
+  "name": "fcc-backend-api-playgrounds",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bappyasif/fcc-backend-api-playgrounds.git"
+  },
+  "author": "a b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bappyasif/fcc-backend-api-playgrounds/issues"
+  },
+  "homepage": "https://github.com/bappyasif/fcc-backend-api-playgrounds#readme"
+}
